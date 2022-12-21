@@ -1,5 +1,5 @@
 ## Multi-module maven project
-    ->  Make project as maven-POM
+    ->  Make project as maven-POM (Requires 'Spring Boot Helper' plugin or Intellij Ultimate Edition)
 
     ->  Add different modules to the root project by creating new project -> module -> New Module
 
