@@ -4,8 +4,6 @@ package com.basics.model.doctor;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
-import javax.persistence.Table;
-
 
 //@Data
 //@AllArgsConstructor
