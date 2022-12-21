@@ -1,7 +1,7 @@
 package com.basics.controller.doctor;
 
 
-import com.basics.model.doctor.Doctors;
+import com.basicsASDF.model.doctor.Doctors;
 import com.basics.service.doctor.DoctorService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

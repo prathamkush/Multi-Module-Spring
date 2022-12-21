@@ -1,4 +1,4 @@
-package com.basics.model.doctor;
+package com.basicsASDF.model.doctor;
 
 
 

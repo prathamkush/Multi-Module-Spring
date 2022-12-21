@@ -2,7 +2,7 @@ package com.basics.service.doctor;
 
 
 import com.basics.dao.doctor.DoctorRepository;
-import com.basics.model.doctor.Doctors;
+import com.basicsASDF.model.doctor.Doctors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

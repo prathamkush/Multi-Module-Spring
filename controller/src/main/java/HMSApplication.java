@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 
 @ComponentScan(basePackages = {"com.basics.*"})
-@EntityScan(basePackages = {"com.basics.*"})
+@EntityScan(basePackages = {"com.basicsASDF.*"})
 @EnableJpaRepositories(basePackages = {"com.basics.*"})
 @SpringBootApplication
 public class HMSApplication {
